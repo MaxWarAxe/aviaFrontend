@@ -22,7 +22,7 @@
 <template>
   <div>
     <div class="plane-image lscreen">
-      <div class="blur"></div>
+      
     </div>
     <img class="absolute w-52 left-10 bottom-10" src="@/assets/logos/Zephyr.svg" alt="">
     <div class="lscreen">
